@@ -1,2 +1,2 @@
 # music_App
-It is a soptify clone app with crud functionality
+It is a spotify clone app with crud functionality
